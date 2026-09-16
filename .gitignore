@@ -1,0 +1,5 @@
+.incoming/
+.git/
+*.rar
+*.zip
+.DS_Store

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 640 520"
+     width="1280"
+     height="1040">
+  <title>Furniture floor plan</title>
+  <rect width="640" height="520" fill="#ffffff"/>
+
+  <g fill="none"
+     stroke="#2B4CFF"
+     stroke-width="3.4"
+     stroke-linejoin="round"
+     stroke-linecap="round">
+
+    <rect x="168" y="88" width="304" height="252"/>
+    <rect x="268" y="172" width="98" height="64"/>
+
+    <path d="M116 208 h66 v96 h200 v80 H116 Z"/>
+    <rect x="126" y="220" width="44" height="124" rx="5"/>
+    <rect x="188" y="314" width="56" height="30" rx="5"/>
+    <rect x="250" y="314" width="56" height="30" rx="5"/>
+    <rect x="312" y="314" width="56" height="30" rx="5"/>
+
+    <path d="M427.1,89.32 L508.33,132.51 L468.9,206.68 L387.67,163.49 Z"/>
+    <path d="M431.29,100.61 L496.63,135.35 L482.55,161.84 L417.21,127.1 Z"/>
+    <path d="M413.45,134.16 L478.79,168.9 L465.65,193.62 L400.31,158.88 Z"/>
+
+    <circle cx="530" cy="196" r="26"/>
+  </g>
+</svg>

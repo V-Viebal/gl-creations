@@ -1,0 +1,8 @@
+.incoming
+.git
+.github
+*.rar
+*.zip
+start-localhost.bat
+start-localhost.ps1
+server.mjs
